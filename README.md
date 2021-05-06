@@ -30,3 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 #work-flow
 ![Untitled Diagram-modules](https://user-images.githubusercontent.com/39033056/117290900-f93ace80-ae8b-11eb-8bba-365f21c7b5f4.png)
 
+[mini_project_document.pdf](https://github.com/rohitsengar001/TechMan_frontend/files/6434035/mini_project_document.pdf)
